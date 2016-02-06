@@ -1,12 +1,11 @@
 ---
 layout: post
-title: AppScan
+title: AppScan Dynamic Analyzer
 permalink: /appscan/
 ---
 
 ##### **[Download PPT Presentation](https://github.com/ongj/appscan/raw/master/AppScan%20Dynamic%20Analyzer%20(1).ppt)**
 
-AppScan Dynamic Analyzer
 ===================
 AppScan Dynamic Analyzer identifies security issues in web applications and helps keep them secure. It provides a downloadable report which contains the detected vulnerabilities.
 
