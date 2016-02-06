@@ -7,6 +7,7 @@ permalink: /appscan/
 ##### **[Download PPT Presentation](https://github.com/ongj/appscan/raw/master/AppScan%20Dynamic%20Analyzer%20(1).ppt)**
 
 ===================
+
 AppScan Dynamic Analyzer identifies security issues in web applications and helps keep them secure. It provides a downloadable report which contains the detected vulnerabilities.
 
 In this tutorial, you will learn how to use AppScan Dynamic Analyzer to scan web applications for vulnerabilities. To further realize the importance of this service, you will first try out the vulnerabilities in the web application.
@@ -134,6 +135,7 @@ The web application starts with a login page. You may try out some of the functi
 As explained earlier, there are 2 accounts inserted automatically, together with the creation of the database. The 2 accounts created earlier and their user credentials (i.e username, password) are as follows.
 
 > Username: `admin` Password: `password`
+>
 > Username: `user1` Password: `password`
 
  1. Login with the `admin` account. Credentials are (`admin`,`password`). 
